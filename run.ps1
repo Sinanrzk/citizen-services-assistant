@@ -18,6 +18,7 @@ Write-Host "Activating virtual environment..." -ForegroundColor Green
 Write-Host "Starting LLM Backend API on port 5000..." -ForegroundColor Green
 Start-Job -Name "CSABackend" -ScriptBlock {
     Set-Location $using:PWD
+    $env:PYTHONUTF8=1
     & .\venv\Scripts\python.exe -m app.main
 } | Out-Null
 
