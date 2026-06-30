@@ -1,0 +1,34 @@
+Scheme Name: PAN Card — Permanent Account Number
+
+What It Provides:
+PAN (Permanent Account Number) is a 10-character alphanumeric identifier issued by the Income Tax Department of India. It is mandatory for filing income tax returns, opening bank accounts with deposits above Rs 50,000, purchasing property, and high-value financial transactions. PAN links all financial transactions of an individual or entity for tax tracking purposes.
+
+Eligibility:
+Any Indian citizen, NRI, or foreign national with a taxable income or who conducts specified financial transactions in India can apply for a PAN card. Companies, firms, trusts, and other entities registered in India also require PAN. There is no age restriction — PAN can be obtained for minors through a representative assessee (parent/guardian).
+
+Required Documents:
+For Individuals:
+1. Proof of Identity (any one): Aadhaar card, Voter ID, Passport, or Driving Licence
+2. Proof of Address (any one): Aadhaar, utility bill, bank statement, Voter ID, or Passport
+3. Proof of Date of Birth (any one): Birth certificate, 10th mark sheet, Aadhaar, or Passport
+4. Passport-size photograph (two copies)
+For Companies/Entities:
+1. Certificate of Registration / Incorporation
+2. PAN of the authorised signatory
+
+How to Apply:
+Online Process:
+1. Visit onlineservices.nsdl.com or utiitsl.com (authorised PAN service providers).
+2. Fill Form 49A (for Indian citizens) or Form 49AA (for foreign citizens).
+3. Upload scanned documents and photograph.
+4. Pay the processing fee (Rs 107 for physical PAN + e-PAN, Rs 66 for e-PAN only).
+5. Submit the application; an acknowledgement number is generated.
+6. e-PAN is sent to your email within 48 hours; physical card is dispatched within 15-20 days.
+
+Offline Process:
+1. Obtain Form 49A from any NSDL/UTIITSL PAN centre or TIN facilitation centre.
+2. Fill the form and attach self-attested copies of documents.
+3. Submit at the PAN centre with the processing fee.
+
+Where to Apply:
+NSDL/Protean PAN centres, UTIITSL centres, or online at onlineservices.nsdl.com or utiitsl.com.

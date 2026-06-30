@@ -1,0 +1,30 @@
+Scheme Name: Voter ID / EPIC — Electoral Photo Identity Card
+
+What It Provides:
+The Voter ID card (also called EPIC — Electors Photo Identity Card) is an identity document issued by the Election Commission of India that serves as proof of identity for voting in elections. It contains the voter's name, photograph, date of birth, and constituency details. It is also widely accepted as a valid government-issued photo ID for other purposes.
+
+Eligibility:
+Any Indian citizen who has attained the age of 18 years as on the qualifying date (1st January of the year of revision of electoral rolls) is eligible to register as a voter. The person must be a resident of the constituency where they wish to register. Persons of unsound mind or those disqualified under law are not eligible.
+
+Required Documents:
+1. Proof of Age (any one): Birth certificate, 10th mark sheet, Aadhaar card, Passport, or PAN card
+2. Proof of Address (any one): Aadhaar, utility bill, bank passbook, ration card, or rental agreement
+3. Passport-size photograph (recent)
+4. Self-declaration (if no address proof is available)
+
+How to Apply:
+Online Application:
+1. Visit the National Voters' Service Portal at voters.eci.gov.in or download the Voter Helpline App.
+2. Fill Form 6 (for new registration) or Form 8 (for correction/transposition).
+3. Upload scanned copies of supporting documents and photograph.
+4. Submit the application; a reference ID is generated for tracking.
+5. A Booth Level Officer (BLO) may visit for field verification.
+6. Once approved, the Voter ID card is dispatched or available for collection.
+
+Offline Application:
+1. Obtain Form 6 from the nearest Electoral Registration Office (ERO) or download from the ECI website.
+2. Fill the form and attach photocopies of documents.
+3. Submit at the ERO or through the BLO in your area.
+
+Where to Apply:
+National Voters' Service Portal (voters.eci.gov.in), Voter Helpline App, or nearest Electoral Registration Office.

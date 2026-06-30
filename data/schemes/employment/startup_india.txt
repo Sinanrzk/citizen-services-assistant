@@ -1,0 +1,25 @@
+Scheme Name: Startup India
+
+What It Provides:
+A government initiative to promote entrepreneurship by offering tax exemptions, easier compliance, funding support, and incubation facilities. Recognised startups are eligible for a 3-year income tax exemption (under Section 80-IAC), exemption from Angel Tax (Section 56(2)(viib)), self-certification under labour and environmental laws, faster patent and trademark filing at reduced costs, and access to the Fund of Funds for Startups (FFS) with a corpus of Rs 10,000 crore.
+
+Eligibility:
+An entity is recognised as a startup if: it is incorporated as a Private Limited Company, Partnership Firm, or LLP in India; it is less than 10 years old from incorporation; annual turnover has not exceeded Rs 100 crore in any financial year; and it is working towards innovation, development, or commercialisation of new products, processes, or services.
+
+Required Documents:
+1. Certificate of Incorporation / Registration
+2. PAN card of the entity
+3. Details of directors/partners with Aadhaar
+4. Brief description of the business and innovation
+5. Supporting documents (patent, prototype, or product details if available)
+
+How to Apply:
+1. Register on the Startup India portal at startupindia.gov.in.
+2. Fill the startup recognition application form.
+3. Upload the required documents and a letter of recommendation (if applicable).
+4. The application is reviewed by the DPIIT (Department for Promotion of Industry and Internal Trade).
+5. Upon approval, a recognition certificate is issued.
+6. Apply separately for tax exemption and other benefits through the portal.
+
+Where to Apply:
+Startup India portal (startupindia.gov.in) — entirely online process.

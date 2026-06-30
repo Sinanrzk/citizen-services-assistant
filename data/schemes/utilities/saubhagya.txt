@@ -1,0 +1,25 @@
+Scheme Name: Pradhan Mantri Sahaj Bijli Har Ghar Yojana (Saubhagya)
+
+What It Provides:
+Free electricity connections to all un-electrified and willing households in rural and urban areas. For BPL households, the connection is completely free. For APL (Above Poverty Line) households, a nominal charge of Rs 500 is applicable, payable in 10 monthly instalments along with the electricity bill. The scheme covers the cost of last-mile connectivity, including the electric meter, wiring, and a single-point power supply.
+
+Eligibility:
+All un-electrified households in rural and urban areas across India. In rural areas, beneficiaries are identified using the SECC 2011 data. Un-electrified households not covered under SECC are also eligible. There is no income restriction — any household without an electricity connection can apply.
+
+Required Documents:
+1. Identity proof (Aadhaar card, Voter ID, or any government-issued ID)
+2. Address proof (Aadhaar, ration card, or local authority certificate)
+3. BPL card or SECC inclusion proof (for free connection)
+4. Passport-size photograph
+5. Mobile number
+
+How to Apply:
+1. Contact your local electricity distribution company (DISCOM) office or gram panchayat.
+2. Fill the application form for a new electricity connection under Saubhagya.
+3. Submit identity and address proof documents.
+4. A field survey team may visit your household for verification.
+5. Upon approval, the connection is installed with a pre-paid or post-paid meter.
+6. In remote areas, solar-based standalone systems are provided where grid extension is not feasible.
+
+Where to Apply:
+Local DISCOM office, Gram Panchayat, or contact the state electricity board. Details at saubhagya.gov.in.

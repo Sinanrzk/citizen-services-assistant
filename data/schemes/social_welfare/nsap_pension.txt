@@ -1,0 +1,35 @@
+Scheme Name: National Social Assistance Programme (NSAP)
+
+What It Provides:
+A social safety net providing pensions and financial assistance to elderly, widows, and disabled persons from BPL families. The programme includes multiple components:
+- Indira Gandhi National Old Age Pension Scheme (IGNOAPS): Rs 200/month for BPL persons aged 60-79, Rs 500/month for 80+.
+- Indira Gandhi National Widow Pension Scheme (IGNWPS): Rs 300/month for BPL widows aged 40-79, Rs 500/month for 80+.
+- Indira Gandhi National Disability Pension Scheme (IGNDPS): Rs 300/month for BPL persons aged 18-79 with severe/multiple disabilities, Rs 500/month for 80+.
+- National Family Benefit Scheme (NFBS): Lump sum of Rs 20,000 to BPL families on the death of the primary breadwinner.
+States may add their own top-up amounts to the central government contribution.
+
+Eligibility:
+Old Age Pension: BPL persons aged 60 years and above.
+Widow Pension: BPL widows aged 40 years and above.
+Disability Pension: BPL persons aged 18-79 with 80% or more disability.
+NFBS: BPL family where the primary breadwinner (aged 18-59) has died.
+
+Required Documents:
+1. Age proof (Aadhaar, birth certificate, school certificate, or medical officer's certificate)
+2. BPL certificate or ration card or SECC data verification
+3. Aadhaar card
+4. Bank/post office account details
+5. Widow certificate / death certificate of spouse (for widow pension)
+6. Disability certificate from competent medical authority (for disability pension)
+7. Death certificate of breadwinner (for NFBS)
+8. Passport-size photograph
+
+How to Apply:
+1. Obtain the application form from your local Gram Panchayat, Block/Taluka office, or district social welfare office.
+2. Fill the form and attach self-attested copies of required documents.
+3. Submit the application at the Gram Panchayat or Urban Local Body office.
+4. The application is verified by local authorities and forwarded to the district level.
+5. Upon approval, the pension is credited monthly to the beneficiary's bank or post office account.
+
+Where to Apply:
+Gram Panchayat, Block Development Office, District Social Welfare Office, or through state-specific online portals where available. Central portal: nsap.nic.in.

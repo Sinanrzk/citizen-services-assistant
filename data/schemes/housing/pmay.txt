@@ -1,0 +1,25 @@
+Scheme Name: Pradhan Mantri Awas Yojana (PMAY) — Housing for All
+
+What It Provides:
+Affordable housing for Economically Weaker Sections (EWS), Low Income Groups (LIG), and Middle Income Groups (MIG). Under PMAY-Urban, beneficiaries receive interest subsidy on home loans: 6.5% for EWS/LIG (loan up to Rs 6 lakh), 4% for MIG-I (loan up to Rs 9 lakh), and 3% for MIG-II (loan up to Rs 12 lakh). Under PMAY-Gramin (rural), financial assistance of Rs 1.20 lakh (plains) or Rs 1.30 lakh (hilly areas) is provided for house construction.
+
+Eligibility:
+EWS: Annual household income up to Rs 3 lakh. LIG: Rs 3-6 lakh. MIG-I: Rs 6-12 lakh. MIG-II: Rs 12-18 lakh. The beneficiary family must not own a pucca house anywhere in India. Women ownership or co-ownership is mandatory for EWS/LIG categories. For PMAY-Gramin, the household must be in the SECC permanent wait list.
+
+Required Documents:
+1. Aadhaar card of all family members
+2. Income certificate or salary slips
+3. Proof that the family does not own a pucca house (self-declaration affidavit)
+4. Bank account details
+5. Property documents (for Credit Linked Subsidy Scheme)
+6. Caste certificate (if applicable for priority)
+
+How to Apply:
+1. PMAY-Urban: Apply online at pmaymis.gov.in or visit your nearest CSC.
+2. PMAY-Gramin: The Gram Sabha identifies eligible beneficiaries from the SECC list.
+3. Fill the application form with Aadhaar and income details.
+4. For CLSS, apply through any scheduled bank or housing finance company.
+5. Applications are verified by Urban Local Bodies (urban) or district authorities (rural).
+
+Where to Apply:
+PMAY-Urban: pmaymis.gov.in or Common Service Centres. PMAY-Gramin: Gram Panchayat or Block Development Office.

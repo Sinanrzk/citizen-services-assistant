@@ -1,0 +1,34 @@
+Scheme Name: Vehicle Registration Certificate (RC)
+
+What It Provides:
+A Registration Certificate (RC) is a mandatory document for every motor vehicle operating on public roads in India, issued by the Regional Transport Office (RTO). It contains details of the vehicle (make, model, engine number, chassis number), owner information, and registration validity. New vehicles must be registered within 7 days of purchase. The RC is valid for 15 years and must be renewed thereafter.
+
+Eligibility:
+Any individual or entity purchasing a motor vehicle in India must register it. For new vehicles, the dealer typically facilitates the registration process. For transfer of ownership, both buyer and seller must apply jointly within 30 days of the sale.
+
+Required Documents:
+For New Registration:
+1. Sale invoice from the authorised dealer
+2. Insurance certificate
+3. Proof of address (Aadhaar, passport, utility bill)
+4. PAN card or Form 60
+5. Pollution Under Control (PUC) certificate
+6. Passport-size photograph
+7. Road tax payment receipt
+
+For Transfer of Ownership:
+1. Form 29 (notice of transfer) and Form 30 (transfer application)
+2. Original RC book
+3. Insurance transfer certificate
+4. NOC from the financing bank (if applicable)
+5. Buyer's address and identity proof
+
+How to Apply:
+1. For new vehicles: The dealer submits the application (Form 20) along with temporary registration.
+2. Pay road tax and registration fee at the RTO.
+3. Vehicle inspection is conducted at the RTO.
+4. Permanent registration number is assigned and RC is issued.
+5. For transfers: Apply online at parivahan.gov.in or visit the RTO with Form 29 and 30.
+
+Where to Apply:
+Regional Transport Office (RTO) or online at parivahan.gov.in.

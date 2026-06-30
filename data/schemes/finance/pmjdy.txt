@@ -1,0 +1,23 @@
+Scheme Name: Pradhan Mantri Jan Dhan Yojana (PMJDY)
+
+What It Provides:
+A national financial inclusion initiative that enables every unbanked household to open a zero-balance savings bank account. Benefits include a free RuPay debit card, accidental insurance cover of Rs 2 lakh, life insurance cover of Rs 30,000 (for accounts opened before a specified period), and an overdraft facility of up to Rs 10,000 for eligible account holders. Mobile banking and direct benefit transfer services are also available.
+
+Eligibility:
+Any Indian citizen above the age of 10 years who does not have an existing bank account can open a PMJDY account. Minor accounts (10-18 years) can be operated by a natural guardian. Small accounts can be opened even without officially valid documents, subject to conditions.
+
+Required Documents:
+1. Aadhaar card (serves as both identity and address proof — simplifies KYC)
+2. If Aadhaar is not available: any one officially valid document — Voter ID, Driving Licence, PAN card, Passport, NREGA Job Card
+3. Passport-size photograph
+4. For small accounts (without OVD): self-attested photograph and signature/thumb impression verified by bank official
+
+How to Apply:
+1. Visit your nearest bank branch (any nationalised or scheduled commercial bank, or regional rural bank).
+2. Request the PMJDY account opening form.
+3. Fill in the form with personal details and submit with Aadhaar or other KYC documents.
+4. The account is opened immediately with zero balance.
+5. A RuPay debit card is issued along with the passbook.
+
+Where to Apply:
+Any bank branch, Banking Correspondent (BC) agents, or selected Common Service Centres. Visit pmjdy.gov.in for details.

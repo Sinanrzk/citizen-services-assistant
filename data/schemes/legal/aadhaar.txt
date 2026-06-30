@@ -1,0 +1,28 @@
+Scheme Name: Aadhaar Card — Unique Identification Number
+
+What It Provides:
+Aadhaar is a 12-digit unique identification number issued by the Unique Identification Authority of India (UIDAI) to every resident of India. It serves as a proof of identity and address and is linked to the holder's biometric data (fingerprints and iris scan). Aadhaar is mandatory for availing government subsidies, filing income tax returns, opening bank accounts, and various other services. It is issued free of cost.
+
+Eligibility:
+Any resident of India (including infants and children) can enrol for Aadhaar regardless of age, gender, or citizenship status. The person must have resided in India for at least 182 days in the twelve months preceding the date of application. No documents are mandatory — an introducer system is available for those without any identity documents.
+
+Required Documents:
+1. Proof of Identity (any one): PAN card, Passport, Voter ID, Driving Licence, Ration Card, or government photo ID
+2. Proof of Address (any one): Utility bill, bank statement, Voter ID, Passport, or rental agreement
+3. Proof of Date of Birth (optional but recommended): Birth certificate, 10th mark sheet, or Passport
+4. For children below 5 years: Parent's Aadhaar card (no biometrics collected)
+
+How to Apply:
+1. Locate the nearest Aadhaar Enrolment Centre at uidai.gov.in or appointments.uidai.gov.in.
+2. Book an appointment online or visit as a walk-in.
+3. Fill the enrolment form and submit along with supporting documents.
+4. Provide biometric data (photograph, fingerprints, and iris scan) at the centre.
+5. Receive an acknowledgement slip with a 14-digit Enrolment ID (EID).
+6. Track Aadhaar status online; the Aadhaar letter is mailed within 60-90 days.
+7. Download e-Aadhaar from uidai.gov.in anytime.
+
+For Updates/Corrections:
+Visit the nearest Aadhaar centre or update online at ssup.uidai.gov.in for address, mobile, email, and name changes.
+
+Where to Apply:
+Aadhaar Enrolment Centres (at post offices, banks, government offices), or online at uidai.gov.in.

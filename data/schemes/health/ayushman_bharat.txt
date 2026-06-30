@@ -1,0 +1,23 @@
+Scheme Name: Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (PM-JAY)
+
+What It Provides:
+Health insurance coverage of up to Rs 5 lakh per family per year for secondary and tertiary hospitalisation. Treatment is cashless and paperless at any empanelled public or private hospital across India. Over 1,500 medical procedures including surgeries, diagnostics, and medicines are covered.
+
+Eligibility:
+Families identified based on the Socio-Economic Caste Census (SECC) 2011 data, covering approximately 10.74 crore deprived rural and urban families. Both rural deprivation categories (D1-D7) and urban occupational categories are included. No cap on family size or age of members.
+
+Required Documents:
+1. Aadhaar card or any government-issued photo ID
+2. Ration card or SECC-listed family details
+3. Ayushman Bharat family ID / e-card (generated at empanelled hospital)
+4. Mobile number for OTP verification
+
+How to Apply:
+1. Check eligibility at mera.pmjay.gov.in by entering your mobile number or ration card number.
+2. If eligible, visit any empanelled hospital or Ayushman Mitra at a government hospital.
+3. Get your e-card generated using Aadhaar-based authentication.
+4. At the time of hospitalisation, present your e-card at the empanelled hospital.
+5. Treatment is provided cashless; the hospital settles claims directly with the insurer.
+
+Where to Apply:
+Ayushman Bharat helpline (14555), empanelled hospitals, Common Service Centres, or mera.pmjay.gov.in.

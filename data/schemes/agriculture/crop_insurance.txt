@@ -1,0 +1,24 @@
+Scheme Name: Pradhan Mantri Fasal Bima Yojana (PMFBY) — Crop Insurance
+
+What It Provides:
+Comprehensive crop insurance coverage against losses due to natural calamities, pests, and diseases. Farmers pay a nominal premium — 2% for Kharif crops, 1.5% for Rabi crops, and 5% for commercial/horticultural crops. The remaining premium is subsidised by the central and state governments.
+
+Eligibility:
+All farmers, including sharecroppers and tenant farmers, growing notified crops in notified areas are eligible. Loanee farmers are automatically covered through their banks. Non-loanee farmers can enrol voluntarily through CSCs, bank branches, or the crop insurance portal.
+
+Required Documents:
+1. Aadhaar card
+2. Bank account passbook
+3. Land records (Khasra/Khatauni, land title, lease agreement for tenant farmers)
+4. Sowing certificate from Patwari or village-level official
+5. Crop details (area sown, crop type)
+
+How to Apply:
+1. Loanee farmers: Insurance is automatically deducted through crop loan accounts at banks.
+2. Non-loanee farmers: Visit the nearest bank branch, CSC, or insurance company agent.
+3. Alternatively, apply online at pmfby.gov.in.
+4. Submit required documents and pay the farmer's share of premium.
+5. Claims are settled based on crop cutting experiments and remote sensing data.
+
+Where to Apply:
+Banks, Common Service Centres, insurance company offices, or online at pmfby.gov.in.

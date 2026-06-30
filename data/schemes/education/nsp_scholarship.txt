@@ -1,0 +1,28 @@
+Scheme Name: National Scholarship Portal (NSP) — Various Scholarships
+
+What It Provides:
+A centralised platform offering scholarships from central and state governments for students belonging to SC, ST, OBC, Minority, and Economically Weaker Section (EWS) categories. Scholarships cover tuition fees, maintenance allowance, and other academic expenses. Amounts vary from Rs 1,000 to Rs 2,00,000 per year depending on the specific scholarship and course level.
+
+Eligibility:
+Varies by scholarship. General criteria include: belonging to SC/ST/OBC/Minority/EWS category, annual family income below the specified threshold (typically Rs 2-8 lakh depending on the scheme), minimum academic percentage (usually 50% or above), enrolment in a recognised institution, and domicile in the relevant state. Fresh and renewal applications are accepted.
+
+Required Documents:
+1. Aadhaar card
+2. Income certificate (issued by Tehsildar or competent authority)
+3. Caste/community certificate (SC/ST/OBC/Minority as applicable)
+4. Previous year mark sheet and current year admission receipt
+5. Bank account details (in student's name)
+6. Passport-size photograph
+7. Institution verification letter
+
+How to Apply:
+1. Register on the National Scholarship Portal at scholarships.gov.in.
+2. Fill in the One-Time Registration (OTR) form with personal and academic details.
+3. Select the applicable scholarship and complete the application form.
+4. Upload scanned copies of required documents.
+5. Submit the application; the institute verifies and forwards it.
+6. District/state nodal officer approves after verification.
+7. Scholarship amount is transferred directly to the student's bank account.
+
+Where to Apply:
+National Scholarship Portal (scholarships.gov.in) — all applications are online only.

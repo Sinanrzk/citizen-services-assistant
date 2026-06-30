@@ -1,0 +1,26 @@
+Scheme Name: Driving Licence Application
+
+What It Provides:
+A Driving Licence (DL) is an official document issued by the Regional Transport Office (RTO) permitting a person to operate motor vehicles on public roads. The process includes obtaining a Learner's Licence (LL) first, followed by a permanent Driving Licence after a mandatory learning period of 30 days. Licences are issued for various vehicle categories including two-wheelers, four-wheelers (LMV), and commercial vehicles (HMV/Transport).
+
+Eligibility:
+Learner's Licence: Minimum age 16 years for two-wheelers without gear (below 50cc) and 18 years for motorcycles and cars. For commercial/transport vehicles: minimum 20 years with a valid LMV licence. The applicant must not be disqualified by any court and must be physically and mentally fit to drive.
+
+Required Documents:
+1. Proof of age (birth certificate, 10th mark sheet, passport, or Aadhaar card)
+2. Proof of address (Aadhaar, utility bill, voter ID, passport)
+3. Passport-size photographs
+4. Medical certificate in Form 1-A (for transport licence)
+5. Learner's Licence (for permanent DL application)
+
+How to Apply:
+1. Visit parivahan.gov.in/sarathi and fill the online application form (Form 2 for LL, Form 4 for DL).
+2. Book a slot at your nearest RTO.
+3. Pay the applicable fee online (Rs 200 for LL, Rs 200 for DL test, plus smart card fee).
+4. Visit the RTO on the scheduled date with original documents.
+5. Pass the computer-based test for Learner's Licence.
+6. After 30 days, appear for the driving test at the RTO for permanent DL.
+7. Upon passing, the Driving Licence is dispatched to your address.
+
+Where to Apply:
+Online at parivahan.gov.in/sarathi or visit your nearest Regional Transport Office (RTO).

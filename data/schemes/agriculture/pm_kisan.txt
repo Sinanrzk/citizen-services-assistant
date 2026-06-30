@@ -1,0 +1,23 @@
+Scheme Name: Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)
+
+What It Provides:
+Direct income support of Rs 6,000 per year to eligible farmer families, paid in three equal instalments of Rs 2,000 every four months directly into bank accounts via Direct Benefit Transfer (DBT).
+
+Eligibility:
+All landholding farmer families with cultivable land are eligible. Families of institutional landholders, former/present holders of constitutional posts, serving or retired government employees drawing pension above Rs 10,000/month, income tax payers, and professionals like doctors, engineers, and lawyers are excluded.
+
+Required Documents:
+1. Aadhaar card (mandatory for benefit transfer)
+2. Land ownership records / land title documents
+3. Bank account number with IFSC code
+4. Mobile number linked to Aadhaar
+
+How to Apply:
+1. Visit your nearest Common Service Centre (CSC) or local Patwari/Revenue Officer.
+2. Submit the application form with required documents.
+3. Alternatively, self-register online at pmkisan.gov.in.
+4. Verification is done by state/district nodal officers.
+5. Once approved, instalments are credited directly to your bank account.
+
+Where to Apply:
+PM-KISAN portal (pmkisan.gov.in), Common Service Centres, or local agriculture department offices.
